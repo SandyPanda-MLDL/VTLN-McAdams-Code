@@ -9,3 +9,4 @@
 - 📘 [WORLD Vocoder Paper (JSTAGE)](https://www.jstage.jst.go.jp/article/transinf/E99.D/7/E99.D_2015EDP7457/_pdf/-char/en)
 - 📘 [CheapTrick Algorithm Paper (Same as WORLD)](https://www.jstage.jst.go.jp/article/transinf/E99.D/7/E99.D_2015EDP7457/_pdf/-char/en)
 - 📘 [ Pyword actual repo (WORLD Vocoder)](https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder)
+- Env using for libtsm : conda create -n py36plus python=3.6
