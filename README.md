@@ -1,4 +1,4 @@
-# VTLN-McAdams-Code
+# McAdams-Code
 McAdams Algorithm original paper: https://www.isca-archive.org/interspeech_2021/patino21_interspeech.pdf
 Code of McAdams algorithm available at: https://github.com/Voice-Privacy-Challenge/Voice-Privacy-Challenge-2024
 # World Vocoder 
